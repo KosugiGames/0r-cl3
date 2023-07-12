@@ -2,11 +2,11 @@
 
 Description 
 
-N3tw0rk is an alternate reality game produced by Kowsugi games in 2023.
-It follows the story of a human AI hybrid (Kait) who for reasons not yet known,
-at the time of writing. Finds herself in an alternate universe, 
-grappling with the new reality as well as potential threats. 
-Kait must embark on a quest to uncover the truth.
+N3tw0rk is an interactive alternate reality game produced by Kowsugi games in 2023. Comprised bi-medially of both video and code. Players must solve puzzles and ciphers to assist the protagonist and help guide the story.
+
+Synopsis 
+
+During a remote assassination mission for the CIA, Kait the worlds first sentient human/hybrid AI finds herself suddenly in an unknown location. Unbeknownst to her however, shes just entered the parallel reality next door after her quantum engines malfunctioned. Now inhabiting a transgender woman called Holly, the alternate universe version of Kait. However because Kait had the ability to store digital memory via neurons, the footage of that operation is still stored in the cortical memory. This leads to Kait (now Holly) to go on a quest to figure out how to use the footage to uncover the truth, hide from the authorities, as well as having to adapt to an entirely new life and world history of events.
 
 Rules;
 
